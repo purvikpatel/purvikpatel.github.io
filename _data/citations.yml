@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-05'
+  last_updated: '2026-08-14'
 papers:
   weVdFvEAAAAJ:2osOgNQ5qMEC:
     citations: 10
@@ -17,6 +17,14 @@ papers:
     citations: 0
     title: Bridging Equivariant GNNs and Spherical CNNs for Structured Physical Domains
     year: '2026'
+  weVdFvEAAAAJ:W7OEmFMy1HYC:
+    citations: 0
+    title: 'G2Sphere: Learning High-Frequnecy Spherical Signals From Geometric Data'
+    year: Unknown Year
+  weVdFvEAAAAJ:YsMSGLbcyi4C:
+    citations: 0
+    title: Equivariant Diffusion for The Inverse Radar Problem
+    year: Unknown Year
   weVdFvEAAAAJ:qjMakFHDy7sC:
     citations: 0
     title: 'SIDDA: SInkhorn Dynamic Domain Adaptation for Image Classification'
