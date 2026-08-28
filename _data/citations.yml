@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-08-14'
+  last_updated: '2026-08-28'
 papers:
   weVdFvEAAAAJ:2osOgNQ5qMEC:
     citations: 10
     title: E (2) equivariant neural networks for robust galaxy morphology classification
     year: '2023'
   weVdFvEAAAAJ:9yKSN-GCB0IC:
-    citations: 3
+    citations: 4
     title: "A Close Look at Software Design Aspects of Remotely Operated Vehicles\u2014A Survey"
     year: '2020'
   weVdFvEAAAAJ:IjCSPb-OGe4C:
@@ -14,7 +14,7 @@ papers:
     title: 'Radar2Shape: 3D Shape Reconstruction from High-Frequency Radar using Multiresolution Signed Distance Functions'
     year: '2025'
   weVdFvEAAAAJ:UeHWp8X0CEIC:
-    citations: 0
+    citations: 1
     title: Bridging Equivariant GNNs and Spherical CNNs for Structured Physical Domains
     year: '2026'
   weVdFvEAAAAJ:W7OEmFMy1HYC:
